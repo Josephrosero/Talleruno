@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Talleruno</string>
+    <string name="Str_1">Johnny Depp</string>
+    <string name="Str_2">Prague, Czech Republic</string>
+    <string name="st_3">42</string>
+    <string name="st_4">Stories  </string>
+    <string name="st_5">517</string>
+    <string name="st_6">Followers</string>
+    <string name="st_7">284</string>
+    <string name="st_8">Following</string>
+    <string name="Str_SC">My Trip to Italy</string>
+    <string name="Str_SC2">I just retorned from Italy</string>
+</resources>
